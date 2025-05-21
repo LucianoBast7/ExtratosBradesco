@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.2
+python-dotenv==0.21.0
+workalendar
+requests==2.32.2
